@@ -352,7 +352,8 @@ svg{
         <div className="header-right">
           <span>Onepane Organisation</span>
           <div className="bell">🔔</div>
-          <img src="https://i.pravatar.cc/40" className="avatar" />
+          <img src="something.jpg" alt="description" />
+
         </div>
       </div>
 
